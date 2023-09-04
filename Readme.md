@@ -30,7 +30,7 @@ Para criar nosso ambiente de fluxo e entrega de dados, vamos utilizar o Kinesis 
 
 ## Produtores.
 
-Nesse projeto a base de dados que utilizei é o monitoramento de uma placa de vídeo, para isso analisei alguns dados de monitoramento da minha prórpia gpu. Com isso consegui uma média de dados gerados para simularmos a geração destes dados de forma aleatória.
+Nesse projeto a base de dados que utilizei é o monitoramento de uma placa de vídeo, para isso analisei alguns dados de monitoramento da minha própria gpu. Com isso consegui uma média de dados gerados para simularmos a geração destes dados de forma aleatória.
 
 ![imagem](https://media.discordapp.net/attachments/1024076211137290270/1145825994305974272/image.png?width=677&height=468
 )
